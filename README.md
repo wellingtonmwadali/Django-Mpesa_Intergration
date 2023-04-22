@@ -1,1 +1,1 @@
-Mpesa  Mobile money payment Intergration using  mpesa daraja api
+Mpesa  Mobile money payment Intergration using  M-PESA daraja api
