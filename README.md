@@ -1,1 +1,1 @@
-Mpesa  Mobile Money payment Intergration using  SAFARICOM M-PESA daraja api under development
+Mpesa  Mobile Money payment Intergration using  SAFARICOM M-PESA daraja api still in development
